@@ -1,0 +1,42 @@
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local databases and data files
+*.db
+*.sqlite
+*.sqlite3
+
+# Model files
+*.gguf
+*.bin
+*.safetensors
+
+# Temporary files
+temp/
+tmp/
