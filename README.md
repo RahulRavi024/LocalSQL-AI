@@ -4,7 +4,9 @@
 
 LocalSQL-AI allows users to interact with a MySQL database using plain English instead of manually writing SQL queries. It uses a locally running LLM through Ollama to generate SQL, validates the generated query, executes it against the database, and provides a natural language explanation of the results.
 
-<img width="1882" height="991" alt="image" src="https://github.com/user-attachments/assets/7aa2f14e-9af6-4a7c-abe1-c1df50428f15" />
+
+<img width="1042" height="991" alt="image" src="https://github.com/user-attachments/assets/e7b0d0f7-2eb1-4412-8630-a4b75850ecc2" />
+
 
 ## ✨ Features
 
