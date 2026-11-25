@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+langgraph
+requests
+sqlalchemy
+pymysql
+python-dotenv
+pandas
